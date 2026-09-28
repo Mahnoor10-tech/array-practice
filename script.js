@@ -1,9 +1,5 @@
 
 const marks = [75, 82, 90, 65, 88, 55, 95];
-
-
-
-
 let marksText = "";
 
 marks.forEach(function(mark) {
